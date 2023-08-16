@@ -1,0 +1,15 @@
+# Environments
+.env
+venv/
+
+# Byte-compiled folder
+__pycache__/ 
+
+# Airflow
+logs/
+plugins/
+include/
+
+# Other
+images/project_architecture_photos/
+.vscode/

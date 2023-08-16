@@ -1,0 +1,9 @@
+# Terraform - Exclude all files which contain sensitive data
+.terraform/
+terraform.tfvars
+terraform.tfstate
+*.backup
+.terraform.lock.hcl
+.terraform-version
+.terraform.tfstate.lock.info
+aws_commands.sh
